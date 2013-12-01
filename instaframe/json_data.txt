@@ -1,0 +1,26 @@
+{
+	"request":
+	{
+		"Target":"Affiliate_Offer",
+		"Format":"json",
+		"Service":"HasOffers",
+		"Version":"3",
+		"Method":"findAllFeaturedOfferIds",
+		"api_key":"c222e50408c88bd47c70d831eba5e577a2b80c4e5ae08bef6cba36fea7da9587",
+		"NetworkId":"hitfox"
+	},
+	"response":
+	{
+		"status":1,
+		"httpStatus":200,
+		"data":
+		[
+			"1168",
+			"1534",
+			"2700",
+			"4302"
+		],
+		"errors":[],
+		"errorMessage":null
+	}
+}
